@@ -1,0 +1,17 @@
+{
+  "lib/fhenix-contracts": {
+    "tag": {
+      "name": "v0.3.1",
+      "rev": "00e1eb38e6adb1c28e97cd40d9095668930aee99"
+    }
+  },
+  "lib/v4-core": {
+    "tag": {
+      "name": "v4.0.0",
+      "rev": "e50237c43811bd9b526eff40f26772152a42daba"
+    }
+  },
+  "lib/v4-periphery": {
+    "rev": "3779387e5d296f39df543d23524b050f89a62917"
+  }
+}
